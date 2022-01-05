@@ -4,6 +4,7 @@ body {
 
 #header {
     background: url(https://images.unsplash.com/photo-1554995207-c18c203602cb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80) center;
+    width: 100% \9;
     background-size: cover;
     height: 80vh;
     position: relative;
@@ -84,8 +85,4 @@ img {
 .card:hover {
     border: 2px solid #d4813d;
 
-}
-
-.wide {
-    width: 100% \9;
 }
